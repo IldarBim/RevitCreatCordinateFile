@@ -1,0 +1,127 @@
+{
+  "Prefix": "999",
+  "Name": "YYY",
+  "Common": "ALL",
+  "ProjectRoot": "",
+  "WorksetsRoot": "",
+  "SfCoordinatesApproved": false,
+  "Models": [
+    {
+      "Code": "SF",
+      "Folder": "00_ALL",
+      "Excel": "Рабочие наборы_Связи.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "GP",
+      "Folder": "01_ПЗУ",
+      "Excel": "Рабочие наборы_ГП.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "AR",
+      "Folder": "02_АР_АС",
+      "Excel": "Рабочие наборыАР.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "KM",
+      "Folder": "03_КР",
+      "Excel": "Рабочие наборы_КР_КМ.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "KR",
+      "Folder": "03_КР",
+      "Excel": "Рабочие наборы_КР_КЖ.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "H",
+      "Folder": "04_ОВ_ИТП",
+      "Excel": "Рабочие наборы H(отопление).xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "V",
+      "Folder": "04_ОВ_ИТП",
+      "Excel": "Рабочие наборы V(Вентиляция).xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "VK",
+      "Folder": "05_ВК",
+      "Excel": "Рабочие наборы ВК.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "SS",
+      "Folder": "06_СС",
+      "Excel": "Рабочие наборы_CC.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "TX",
+      "Folder": "07_ТХ",
+      "Excel": "Рабочие наборы ТХ.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "EOM",
+      "Folder": "08_ЭОМ",
+      "Excel": "Рабочие наборыЭОМ_общестрой.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "AYPT",
+      "Folder": "09_АУПТ",
+      "Excel": "Рабочие наборы АУПТ.xlsx",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    },
+    {
+      "Code": "GS",
+      "Folder": "10_ГАЗ",
+      "Excel": "",
+      "Template": "",
+      "Count": 1,
+      "AdditionalPrefix": "",
+      "AdditionalCount": 0
+    }
+  ]
+}

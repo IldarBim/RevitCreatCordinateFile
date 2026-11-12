@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>TATBIM Project Creator</Name>
+    <Assembly>TATBIM.ProjectCreator\TATBIM.ProjectCreator.dll</Assembly>
+    <AddInId>1F31734F-5561-4AAB-86F7-2A8E6D446B19</AddInId>
+    <FullClassName>TATBIM.ProjectCreator.CreatorApplication</FullClassName>
+    <VendorId>TATB</VendorId>
+    <VendorDescription>TATBIM Project Creator</VendorDescription>
+  </AddIn>
+</RevitAddIns>

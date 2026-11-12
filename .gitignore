@@ -1,0 +1,10 @@
+# Local build and editor output
+/bin/
+/obj/
+/.vs/
+*.user
+*.suo
+*.backup-*
+# Local verification files
+build-local.rsp
+TestRoot*/

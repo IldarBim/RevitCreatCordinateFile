@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net48</TargetFramework><OutputType>Library</OutputType><LangVersion>latest</LangVersion><GenerateAssemblyInfo>false</GenerateAssemblyInfo><AssemblyName>TATBIM.ProjectCreator</AssemblyName><UseWindowsForms>true</UseWindowsForms></PropertyGroup>
+  <ItemGroup>
+    <Reference Include="RevitAPI"><HintPath>$(RevitPath)\RevitAPI.dll</HintPath><Private>False</Private></Reference>
+    <Reference Include="RevitAPIUI"><HintPath>$(RevitPath)\RevitAPIUI.dll</HintPath><Private>False</Private></Reference>
+    <Reference Include="System.Web.Extensions"/>
+    <Reference Include="System.IO.Compression"/>
+    <Reference Include="System.IO.Compression.FileSystem"/>
+  </ItemGroup>
+</Project>
